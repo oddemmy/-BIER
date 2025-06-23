@@ -2621,7 +2621,7 @@ textarea.w-select {
 
 .lovedbymillions {
     cursor: none;
-    background-color: #45756300;
+    background-color: #a76f0000;
     background-image: url(https://cdn.prod.website-files.com/6704fff1bfb07e4b5fd9d815/67070fdcd7858e921ba565f2_Page%20break%20\(2\).png);
     background-position: 0 0;
     background-size: auto
@@ -2629,7 +2629,7 @@ textarea.w-select {
 
 .socials {
     cursor: none;
-    background-color: #45756300;
+    background-color: #7d420300;
     /* background-image: url(https://cdn.prod.website-files.com/6704fff1bfb07e4b5fd9d815/67094cb5f2b58dd64ef84e66_footer%20\(1\).png);
     background-position: 50% 100%;
     background-repeat: no-repeat;
@@ -3209,8 +3209,8 @@ textarea.w-select {
 }
 
 .div-block-15 {
-    background-color: #ffaaa2;
-    background-image: url(https://cdn.prod.website-files.com/6704fff1bfb07e4b5fd9d815/67093cf62a15ec420a5f2bc3_swirl.png);
+    background-color: #F7B239;
+   /* background-image: url(https://cdn.prod.website-files.com/6704fff1bfb07e4b5fd9d815/67093cf62a15ec420a5f2bc3_swirl.png);*/
     background-position: 100% 0;
     background-size: cover;
     border: 5px solid #db5252;
@@ -3360,7 +3360,7 @@ textarea.w-select {
 }
 
 .footer {
-    background: linear-gradient(#457563, #234639)
+    background: linear-gradient(#c55c00, #5f4001)
 }
 
 .text-span-5,
@@ -3478,7 +3478,7 @@ textarea.w-select {
         z-index: 1
     }
     .shop-pfp {
-        background-image: linear-gradient(#ffdbc5, #ffaaa2);
+        background-image: linear-gradient(#ffd997, #F7B239);
         padding-bottom: 135px;
         position: relative;
         overflow: visible
@@ -3833,7 +3833,7 @@ textarea.w-select {
         overflow: hidden
     }
     .socials {
-        background-color: #45756300;
+        background-color: #b96f0000;
         height: auto
     }
     .shop {
@@ -3978,7 +3978,7 @@ textarea.w-select {
         padding-bottom: 100px
     }
     .socials {
-        background-color: #45756300;
+        background-color: #b9500000;
         height: auto
     }
     .shopandpfp {
